@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Phishing Website Detection
 
 ## 📌 Project Overview
@@ -92,3 +93,6 @@ phishing-detection/
 
 ## 👨‍💻 Author
 Kartavya Verma
+=======
+# phishing-detection
+>>>>>>> 0999940576d66f4bb73192c8ed6efbdb7cc2e0c9
